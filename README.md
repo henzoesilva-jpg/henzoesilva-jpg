@@ -86,9 +86,6 @@ Descrição breve do projeto.
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn]
-- E-mail: [Seu E-mail]
-- Portfólio: [Seu Site]
 
 ---
 
