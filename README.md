@@ -174,7 +174,7 @@ Objetivo: evoluir um pipeline existente para um ambiente reproduzível, utilizan
 
 Confira meus repositórios para acompanhar projetos de desenvolvimento de software, exercícios práticos e futuras implementações relacionadas à Engenharia de Dados.
 
-➡️ **GitHub:** [https://github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
+➡️ **GitHub:** [https://github.com/henzoesilva-jpg](https://github.com/SEU_USUARIO)
 
 > Substitua `SEU_USUARIO` pelo seu nome de usuário e atualize os status e links dos projetos conforme avançar na implementação.
 
